@@ -76,6 +76,9 @@ Claude antwortet trotzdem in deiner Sprache.
 
 ## More skills
 
+New to Claude Code? [claude-homebase](https://github.com/AntonioBlago/claude-homebase) sets up your global CLAUDE.md,
+project structure, skills and learnings in one interview (`/homebase`) and can install Context Guard for you.
+
 Context Guard is part of how I work with Claude Code every day. The **Vibe Coding Set** bundles the guardrails and
 security skills for building and shipping your own tools with an AI agent (German):
 [antonioblago.com/de/skills/vibe-coding/](https://www.antonioblago.com/de/skills/vibe-coding/?utm_source=github&utm_medium=readme&utm_campaign=context-guard)
