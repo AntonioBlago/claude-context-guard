@@ -1,7 +1,8 @@
 # Context Guard for Claude Code
 
 Long Claude Code sessions get expensive and slow, because every call re-sends the whole conversation. In my own
-sessions, cache reads of the existing context were more than 95 % of all tokens (measured October 2026).
+sessions, cache reads of the existing context were 96.6 % of 26 billion tokens over 30 days (October 2026, full
+measurement: [Best Claude Code Skills for Developers](https://www.antonioblago.com/blog/best-claude-code-skills-developers?utm_source=github&utm_medium=readme&utm_campaign=context-guard)).
 
 Context Guard is one Python file (stdlib only) plus one skill:
 
