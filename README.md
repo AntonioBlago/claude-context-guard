@@ -14,6 +14,8 @@ Context Guard is one Python file (stdlib only) plus one skill:
 
 No dependencies, no network, no telemetry. A hook that fails stays silent and never blocks Claude Code.
 
+> **Want the full setup?** This hook is one of three safety hooks in a larger kit. The [Claude Code Starter Set](https://www.antonioblago.com/skills/claude-code-starter-set?utm_source=github&utm_medium=readme&utm_campaign=starter-set&utm_content=claude-context-guard) bundles 61 skills, 3 safety hooks, 7 agent roles and an installer with dry run and backup, plus three courses. One purchase (399 €), updates included. The kit is currently in German, an English edition is in preparation.
+
 ## Install
 
 1. Copy the files:
